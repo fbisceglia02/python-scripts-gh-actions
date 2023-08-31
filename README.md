@@ -15,3 +15,6 @@ After starting a new project:
 
 - to create a file for requirements
 `pip freeze > requirements.txt`
+
+---
+https://www.youtube.com/watch?v=PaGp7Vi5gfM
